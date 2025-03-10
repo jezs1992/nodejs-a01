@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "67c79c011b121b7649991b91"
+  },
+  "name": "Eduardo Zuniga",
+  "bio": "Experienced Software Engineer with a proven track record in developing high-quality software solutions. Demonstrated ability to gather business requirements, needs and improvement to translate them to tech assets. Focus on give value and business goal oriented. Passionate about leveraging the latest technologies and best practices to solve complex problems.",
+  "type": "home"
+},
+{
+  "_id": {
+    "$oid": "67c79e3f1b121b7649991b92"
+  },
+  "name": "Eduardo Zuniga",
+  "bio": "Experienced Software Engineer with a proven track record in developing high-quality software solutions. Demonstrated ability to gather business requirements, needs and improvement to translate them to tech assets. Focus on give value and business goal oriented. Passionate about leveraging the latest technologies and best practices to solve complex problems. Skills • Programming Languages: Java, JavaScript, SQL. Also, hands on experience with charp, visual basic and Python. • Frameworks (or libraries): Spring framework, springboot, ReactJS, Nodejs. Also, hands on experience with Angular. • Databases: PostgreSQL,MongoDB,Aurora,MySQL,Oracle, SQLServer. • Tools: AWS, GCP, Firebase, ElasticSearch, Docker, Kubernetes, Kafka. • Practices: Scrum, TTD, Solid principles, software architecture. Webiste: https://eduzsantillan-dev.vercel.app/ Github: https://github.com/eduzsantillan https://linktr.ee/eduzsantillan",
+  "type": "about"
+},
+{
+  "_id": {
+    "$oid": "67c79e521b121b7649991b93"
+  },
+  "name": "Eduardo Zuniga",
+  "bio": "Feel free to reach out to me with any questions or opportunities.",
+  "email": "contact@eduzsantillan.dev",
+  "phone": "123-456-7890",
+  "type": "contact"
+}]

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "67c79e6d1b121b7649991b96"
+  },
+  "title": "Animal",
+  "summary": "Webapp that allows users to upload or take pictures of animals and using AI recognize them. Currently recognizes dog breeds.",
+  "tech": [
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "AWS Rekognition"
+  ],
+  "screenshot": "/images/image.png"
+},
+{
+  "_id": {
+    "$oid": "67c79ea21b121b7649991b97"
+  },
+  "title": "Todo List",
+  "summary": "Webapp that allows users to create, read, update and delete todos.",
+  "tech": [
+    "Node.js",
+    "Express",
+    "Nextjs"
+  ],
+  "screenshot": "/images/image2.png"
+}]
